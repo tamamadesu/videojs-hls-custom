@@ -1,0 +1,6 @@
+{
+  "name": "videojs-contrib-hls-bower",
+  "main": [
+    "videojs-contrib-hls.js"
+  ]
+}
