@@ -1,5 +1,5 @@
 {
-  "name": "videojs-contrib-hls-bower",
+  "name": "videojs-hls-custom",
   "main": [
     "videojs-contrib-hls.js"
   ]
